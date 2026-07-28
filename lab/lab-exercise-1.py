@@ -1,4 +1,4 @@
-# lab exercise 1
+# lab exercise 1 - student report
 
 name = input("Enter ur name: ")
 usn = input("Enter ur usn: ")
