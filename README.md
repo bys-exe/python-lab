@@ -1,4 +1,5 @@
-
-subject = python programming<br>
-usn = 25BTRCL032<br>
+Name = Batchu yuga sai<br>
+Usn = 25BTRCL032<br>
+Class = AIML - A<br>
+Subject = python programming<br>
 
